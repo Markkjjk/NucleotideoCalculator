@@ -1,6 +1,6 @@
 /**
  * Classe que representa um calculador de nucleotídeos.
- * @author Marcos Cabral
+ * @author Marcos Cabral, Anthony Guimarães
  * Esta classe fornece métodos para calcular a contagem de nucleotídeos em uma sequência de DNA.
  */
 
