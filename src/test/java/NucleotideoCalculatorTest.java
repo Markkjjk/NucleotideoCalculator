@@ -1,6 +1,6 @@
 /**
  * Classe de teste para o NucleotideoCalculator.
- * @author Marcos Cabral
+ * @author Marcos Cabral, Anthony Guimarães
  * Esta classe contém testes unitários que verificam se o método de contagem de nucleotídeos
  */
 
