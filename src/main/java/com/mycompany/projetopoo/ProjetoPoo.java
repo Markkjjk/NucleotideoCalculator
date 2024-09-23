@@ -1,10 +1,9 @@
 /**
  * Main do programa
- * @author Marcos Cabral
+ * @author Marcos Cabral, Anthony Guimarães
  * Esta classe contém o método main que inicia a execução do programa, lê a sequência de DNA
  * de um arquivo e utiliza a classe NucleotideoCalculator para calcular e exibir a contagem
  * de nucleotídeos.
- * @author Marcos Cabral
  */
 
 package com.mycompany.projetopoo;
